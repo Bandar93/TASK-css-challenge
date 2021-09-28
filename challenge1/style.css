@@ -1,0 +1,19 @@
+.harry {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+body {
+  font-family: "Akaya Kanadaka";
+  font-size: 22px;
+  background-color: darkslateblue;
+}
+.par {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
